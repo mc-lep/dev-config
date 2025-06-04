@@ -3,6 +3,7 @@
 Scripts to install and configure my development tools on windows :
  - [wezterm](https://wezterm.org/) as terminal
  - [jetbrains mono](https://www.programmingfonts.org/#jetbrainsmono) as font
+ - [neovim](https://neovim.io/) as editor
 
 
 # How to setup
