@@ -10,3 +10,6 @@ if not exist "%configpath%\" (
 
 echo Apply configuration files ...
 xcopy /y /f /s "%~dp0\.config\*" "%configpath%\"
+
+echo Apply Local AppData files ...
+xcopy /y /f /s "%~dp0\local-appdata\*" "%LocalAppData%\"
