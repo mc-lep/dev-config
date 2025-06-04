@@ -4,8 +4,9 @@ Scripts to install and configure my development tools on windows :
  - [wezterm](https://wezterm.org/) as terminal
  - [jetbrains mono](https://www.programmingfonts.org/#jetbrainsmono) as font
  - [neovim](https://neovim.io/) as editor
-
-
+ - [lazy vim](https://github.com/folke/lazy.nvim) as plugin manager for neovim
+ - [tokyo night](https://github.com/folke/tokyonight.nvim?tab=readme-ov-file) as theme
+ 
 # How to setup
 
 1. Download the git repository on you computer
