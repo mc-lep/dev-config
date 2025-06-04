@@ -1,5 +1,7 @@
 @echo off
 
 echo "wezterm installation ..."
-echo "========================"
-winget install wezterm
+winget install --id=wez.wezterm  -e
+
+echo "jet brains mono nerd font installation ..."
+winget install --id=DEVCOM.JetBrainsMonoNerdFont  -e

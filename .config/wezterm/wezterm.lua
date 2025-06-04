@@ -9,9 +9,9 @@ config.initial_rows = 40
 
 -- configure appareance
 
+config.font = wezterm.font 'JetBrainsMono Nerd Font Mono'
 config.font_size = 12
-config.color_scheme = 'Tokyo Night Storm'
-
+config.color_scheme = 'Tokyo Night'
 
 -- center the window on the screen
 
